@@ -4,6 +4,13 @@ Team ID: PNT2022TMID19957
 
 Batch: B8-2A4E
 
+# Team Members
+ * NAKUL ANAND C -732219IT039
+ * VASANTH K     -732219IT060
+ * DEEPAK K      -732219IT013
+ * SHANTHOSH S   -732219ITL06
+
+
 # Emerging Methods For Early Detection Of Forest Fires
 
 Project Description:
@@ -12,8 +19,3 @@ Forest fires are a major environmental issue, creating economic and ecological d
 
 
 
-# Team Members
- * NAKUL ANAND C -732219IT039
- * VASANTH K     -732219IT060
- * DEEPAK K      -732219IT013
- * SHANTHOSH S   -732219ITL06
