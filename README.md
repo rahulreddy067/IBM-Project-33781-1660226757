@@ -1,17 +1,17 @@
-#✨ IBM-Project-33781-1660226757 ✨
+# IBM-Project-33781-1660226757
 
 Team ID: PNT2022TMID19957
 
 Batch: B8-2A4E
 
-#✨Team Members ✨
+# Team Members 
  * NAKUL ANAND C -732219IT039
  * VASANTH K     -732219IT060
  * DEEPAK K      -732219IT013
  * SHANTHOSH S   -732219ITL06
 
 
-#✨ Emerging Methods For Early Detection Of Forest Fires ✨
+# Emerging Methods For Early Detection Of Forest Fires 
 
 Project Description:
 
